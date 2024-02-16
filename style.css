@@ -1,0 +1,41 @@
+body {
+  font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 800;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #5b5b5b;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+p,
+li {
+  text-align: justify;
+  font-size: 14px;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+
+a {
+  background-color: aqua;
+  color: black;
+}
+
+.images {
+  text-align: center;
+}
